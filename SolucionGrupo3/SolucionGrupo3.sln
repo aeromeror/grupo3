@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComercioElectronico", "Come
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosDePago", "MetodosDePago\MetodosDePago.csproj", "{DF6DD767-4EE5-4786-A554-9C195EC8D594}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizzeria", "Pizzeria\Pizzeria.csproj", "{4AA6C0CF-EEB0-47AC-A81F-C5337982C75C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DF6DD767-4EE5-4786-A554-9C195EC8D594}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF6DD767-4EE5-4786-A554-9C195EC8D594}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF6DD767-4EE5-4786-A554-9C195EC8D594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA6C0CF-EEB0-47AC-A81F-C5337982C75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA6C0CF-EEB0-47AC-A81F-C5337982C75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA6C0CF-EEB0-47AC-A81F-C5337982C75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA6C0CF-EEB0-47AC-A81F-C5337982C75C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
